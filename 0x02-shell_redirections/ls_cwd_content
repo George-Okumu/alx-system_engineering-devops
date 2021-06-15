@@ -1,0 +1,15 @@
+total 52
+drwxr-xr-x 2 moringa moringa 4096 Wax 15 07:13 .
+drwxr-xr-x 6 moringa moringa 4096 Wax 14 19:20 ..
+-rwxr--r-- 1 moringa moringa   36 Wax 14 19:22 0-hello_world
+-rwxr--r-- 1 moringa moringa   29 Wax 14 22:10 1-confused_smiley
+-rwxr--r-- 1 moringa moringa   28 Wax 14 22:13 2-hellofile
+-rwxr--r-- 1 moringa moringa   39 Wax 14 22:28 3-twofiles
+-rwxr--r-- 1 moringa moringa   35 Wax 14 22:33 4-lastlines
+-rwxr--r-- 1 moringa moringa   35 Wax 14 22:36 5-firstlines
+-rwxr--r-- 1 moringa moringa   43 Wax 14 22:53 6-third_line
+-rwxr--r-- 1 moringa moringa  109 Wax 15 07:09 7-file
+-rwxr--r-- 1 moringa moringa   36 Wax 15 07:12 8-cwd_state
+-rw-r--r-- 1 moringa moringa   17 Wax 15 07:10 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 moringa moringa    0 Wax 15 07:13 ls_cwd_content
+-rw-r--r-- 1 moringa moringa   27 Wax 14 19:21 README.md
