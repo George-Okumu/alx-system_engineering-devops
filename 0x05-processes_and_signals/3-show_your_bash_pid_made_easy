@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #displays the PID along with bash
 
-echo $$ "bash"
+pgrep -l bash
