@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-ps -ef | grep nginx | awk '{print $2}'
+echo $$
