@@ -2,4 +2,8 @@
 # Bash script that displays To infinity and beyond indefinitely.
 # this prints the texts within an interval of 2 seconds
 
- while true; do echo 'To infinity and beyond'; sleep 2; done
+while :
+do
+    echo "To infinity and beyond";
+    sleep 2
+done
